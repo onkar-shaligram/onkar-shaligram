@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Flutter, Data Structures & Algorithms**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning **Flutter, Data Structures & Algorithms & Web Development**
+- 🤔 I’m looking for help with **Flutter & DSA**
 - 💬 Ask me about **Anything you want😁**
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me at **https://onkar-shaligram.netlify.app/**
+- ⚡ Fun fact: **I ❤ PUBG 😂**
 
