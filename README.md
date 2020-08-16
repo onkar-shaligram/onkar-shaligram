@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 - 🌱 I’m currently learning **Flutter, Data Structures & Algorithms & Web Development**
 - 🤔 I’m looking for help with **Flutter & DSA**
 - 💬 Ask me about **Anything you want😁**
