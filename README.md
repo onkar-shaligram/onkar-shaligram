@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning **Flutter, Data Structures & Algorithms & Web Development**
 - 🤔 I’m looking for help with **Flutter & DSA**
