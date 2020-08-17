@@ -3,8 +3,8 @@
 ![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 - 🌱 I’m currently learning **Flutter, Data Structures & Algorithms & Web Development**
-- 🤔 I’m looking for help with **Flutter & DSA**
-- 💬 Ask me about **Anything you want😁**
+- 🤔 I’m looking for help with **Flutter & Data Structures and Algorithms**
+- 💬 Ask me Pretty Much **Anything you want😁**
 - 📫 Reach me at **https://onkar-shaligram.netlify.app/**
 - ⚡ Fun fact: **I ❤ PUBG 😂**
 
