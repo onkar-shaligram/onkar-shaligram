@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
-![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![image](https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/dino.gif)
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
 - 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
