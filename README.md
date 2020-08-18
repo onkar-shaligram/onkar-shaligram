@@ -2,11 +2,11 @@
 
 ![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-- 🌱 I’m currently learning **Flutter, Data Structures & Algorithms & Web Development**
-- 🤔 I’m looking for help with **Flutter & Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
+- 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want😁**
 - 📫 Reach me at **https://onkar-shaligram.github.io/**
-- ⚡ Fun fact: **I ❤ PUBG 😂**
+- ⚡ Fun fact: **I ❤ PUBG 😂🔫**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&theme=default" /> </p>
 
