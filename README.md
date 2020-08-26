@@ -10,6 +10,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
 
+### Github Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&theme=default" /> </p>
 
 <p align="center">
