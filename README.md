@@ -8,6 +8,8 @@
 - 📫 Reach me at **https://onkar-shaligram.github.io/**
 - ⚡ Fun fact: **I ❤ PUBG 😂🔫**
 
+![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&theme=default" /> </p>
 
 <p align="center">
