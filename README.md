@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want😁**
 - 📫 Reach me at **https://onkar-shaligram.github.io/**
-- ⚡ Fun fact: **I ❤ PUBG 😂🔫**
+- ⚡ Fun fact: **I MISS PUBG ❤ 😂🔫**
 
 ![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
 
