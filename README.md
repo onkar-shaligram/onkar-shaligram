@@ -1,6 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
-![image](https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/dino.gif)
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/t6ikSxVJg61NK/giphy.gif">
+</p>
 
 - 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
 - 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
@@ -24,4 +26,5 @@
 <p align="center">
 <a href="https://twitter.com/shaligram_onkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" width="25" /></a>
 <a href="https://www.linkedin.com/in/onkar-shaligram-a9799b190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="25" width="25" /></a>
+  <a href="https://discord.gg/Qtaxf7V" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png"  height="40" width="40" /></a>
 </p>
