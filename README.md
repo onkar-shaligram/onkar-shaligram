@@ -11,6 +11,7 @@
 - ⚡ Fun fact: **I MISS PUBG ❤ 😂🔫**
 
 ![Profile views](https://gpvc.arturio.dev/onkar-shaligram)
+![](https://visitor-badge.glitch.me/badge?page_id=onkar-shaligram.onkarshaligram)
 
 <details>
   <summary><b> Github Stats</b></summary>
