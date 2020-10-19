@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning **Web Development, Mobile App Development, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Web Dev, Mobile App Dev, Data Structures & Algorithms**
 - 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want😁**
 - 📫 Reach me at **<a href = "https://www.linkedin.com/in/onkar-shaligram-a9799b190/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>**
