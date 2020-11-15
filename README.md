@@ -1,9 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
-<p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
-</p>
-
 - 🌱 I’m currently learning **Web Dev, Mobile App Dev, Data Structures & Algorithms**
 - 🤔 I’m looking for help with **Flutter, Web Devlopment & DSA 🤨🧐**
 - 💬 Ask me Pretty Much **Anything you want😁**
