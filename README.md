@@ -32,7 +32,7 @@
 I'm currently in Second year(4th Semester) pursuing Bachelors's in Computer Science & Engineering 🎓 from VIT Bhopal 🏛. I'm a person who is passionate about learning and trying out differnt Technologies in differnt fields and domains 🐱‍💻. I love to explore new technologies and use them to solve real-life problems 🤖. I'm currently trying Web Development 🕸️  and Mobile Development 📱 as well as Strengthing my Data Structures and Algorithm skills 🐱‍🏍.
 
  You can see my Portfolio on Surface Web 🕸😂 at : **http://onkar-shaligram.github.io/**
-
+ 
 
 ### Some more Information about me
 
@@ -40,4 +40,7 @@ I'm currently in Second year(4th Semester) pursuing Bachelors's in Computer Scie
 - 👨🏻‍💻 I’m currently learning to solve CP problems. 🤙
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/onkar-shaligram-a9799b190/)! 👈
 - ⚡ Fun fact:  == **is not equal to** ===. 😂
-- 📫 Reach me at : onkarshaligram01@gmail.com For any kind of assistance. I'm always ready to help ☺✌
+- 📫 Reach me at : onkarshaligram01@gmail.com For any assistance.<br/> I'm always ready to help ☺✌
+
+
+<img align="right" height="250" width="355" alt="gif" src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/prog.gif" />
