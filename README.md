@@ -56,3 +56,30 @@ I'm currently in Second year(4th Semester) pursuing Bachelors's in Computer Scie
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+### Devlopment Stats:
+
+<details>	
+  <summary><b>📊 Github Stats </b></summary>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&hide_border=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-shaligram&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+</details>
+
+<details>	
+  <br/>
+  <summary><b>⚙️ PC Specs and IDEs I use </b></summary>
+  	<ul>
+      <li><b>OS:</b> Windows 10 20H2  </li>
+	    <li><b>Laptop: </b> HP Pavilion 15 (i7, GTX 1650)</li>
+  	  <li><b>Browser: </b> Google Chrome </li>
+	    <li><b>Code Editor:</b> Mostly VSCode <img src="https://img.icons8.com/fluent/18/000000/visual-studio-code-2019.png"/> </li>
+	 <br/>
+	  See My VSCode Configrations and settings at <a href=" ">here.</a>
+	</ul>	
+</details>
+
+---
+
+### Show some ❤️ by starring my repositories!
