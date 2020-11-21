@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
+### Hey! <img src="https://raw.githubusercontent.com/onkar-shaligram/onkar-shaligram/master/wave.gif" width="30px">
 
 
 <a href="https://www.linkedin.com/in/onkar-shaligram-a9799b190/">
