@@ -81,4 +81,4 @@ I'm currently in Second year (4th Semester) pursuing Bachelors's in Computer Sci
 
 ---
 
-### Show some ❤️ by starring my repositories!
+### Show some ❤️ by giving ⭐ to my repositories!
