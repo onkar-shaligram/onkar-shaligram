@@ -41,7 +41,7 @@ I'm currently in Second year (4th Semester) pursuing Bachelors's in Computer Sci
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/onkar-shaligram-a9799b190/)! 👈
 - ⚡ Fun fact:  == **is not equal to** ===. 😂
 - 📫 Reach me at : onkarshaligram01@gmail.com For any kind of assistance. I'm always ready to help ☺✌
-- ❎ In case you face any issues in any of my Repositories, you can Hit Me Up &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [here](https://github.com/onkar-shaligram/onkar-shaligram/issues)! 👈
+- ❎ In case you face any issues in any of my Repositories, you can Hit Me Up [here](https://github.com/onkar-shaligram/onkar-shaligram/issues)! 👈
 
 ### Languages and Tools:
 
