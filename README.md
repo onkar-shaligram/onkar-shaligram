@@ -1,5 +1,6 @@
 ### नमस्कार 🙏🙏🙏   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=onkar-shaligram.onkar-shaligram)
 
+---
 
 <a href="https://www.linkedin.com/in/onkar-shaligram-a9799b190/">
   <img align="left" alt="Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +18,7 @@
   <img align="left" alt="Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/onkarshaligram01">
+<a href="https://www.codechef.com/users/longhorn_65">
   <img align="left" alt="Codechef" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
