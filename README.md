@@ -63,8 +63,8 @@ I'm currently in Second year (4th Semester) pursuing Bachelors's in Computer Sci
 <details>	
   <summary><b>📊 Github Stats </b></summary>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&hide_border=true" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-shaligram&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=onkar-shaligram&show_icons=true&hide_border=true" width="100%"/></br>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-shaligram&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"  width="100%"/>
 </details>
 
 <details>	
