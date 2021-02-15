@@ -14,11 +14,11 @@
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/onkarshaligram01">
+<a href="">
   <img align="left" alt="Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/longhorn_65">
+<a href="">
   <img align="left" alt="Codechef" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
