@@ -14,15 +14,7 @@
   <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="">
-  <img align="left" alt="Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
-<a href="">
-  <img align="left" alt="Codechef" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="https://www.instagram.com/o_n__k__a_r/">
+<a href="https://www.instagram.com/onkkkaar/">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
